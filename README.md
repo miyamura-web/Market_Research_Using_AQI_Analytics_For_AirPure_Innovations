@@ -18,7 +18,7 @@ To evaluate the market potential for air purifiers in Indian cities by analyzing
 │   ├── Primary Solutions.sql                       # SQL query for primary questions
 │   ├── Secondary Solutions.sql                     # SQL query for secondary questions
 │   ├── AQI Dashboard.pbix                          # Power BI interactive dashboard
-│   └── AQI_Analytics.ipynb                         # PYthon scripts for EDA and correlation
+│   └── AQI_Analytics.ipynb                         # Python scripts for EDA and correlation
 │
 └── AQI R&D Suggetions.pdf                          # Report of the analysis and insights along with recommendations
 
