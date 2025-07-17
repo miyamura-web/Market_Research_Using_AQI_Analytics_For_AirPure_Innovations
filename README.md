@@ -22,6 +22,6 @@ To evaluate the market potential for air purifiers in Indian cities by analyzing
 │
 └── AQI R&D Suggetions.pdf                          # Report of the analysis and insights along with recommendations
 
-
+```
 
 ## 🔍 Data sources :
