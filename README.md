@@ -30,6 +30,6 @@ To evaluate the market potential for air purifiers in Indian cities by analyzing
 ● NAMP data                   [ https://cpcb.nic.in/namp-data/ ]
 ● Ken Research                [ https://www.kenresearch.com/industry-reports/india-air-purifiers-market ]
 ● IQAIR                       [ https://www.iqair.com/in-en/india?]
-
+● Some Research Papers        [ https://doi.org/10.1177/10519815241305004 AND https://doi.org/10.1016/B978-0-443-23788-1.00013-0 ]
 ```
 
