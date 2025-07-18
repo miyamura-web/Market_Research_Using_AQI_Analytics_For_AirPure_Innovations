@@ -3,7 +3,7 @@
 ## 🌐 Introduction
 AirPure Innovations is a data-driven startup aiming to address India's growing air pollution crisis through smart air purification technologies. This repository provides an end-to-end market research and analytics project using AQI (Air Quality Index) data to assess the demand, consumer behavior, and regional prioritization for air purifier deployment.
 
-### Project Objective :
+### ↪ Project Objective :
 To evaluate the market potential for air purifiers in Indian cities by analyzing AQI data, and how can R&D be aligned with localized pollution patterns, what pollutants or particles should air purifier target, also which cities have the highest demand for air purifiers etc. For more details see the attach file "problem_statement".
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
