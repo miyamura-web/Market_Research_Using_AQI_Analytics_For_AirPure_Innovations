@@ -43,10 +43,10 @@ To evaluate the market potential for air purifiers in Indian cities by analyzing
 See the attach file "Primary_and_Secondary_Analysis.pdf"
 
 ### Solutions :
-See the attach file "Primary Solutions.sql", "Secondary Solutions", and for detail analysis see the file "AQI R&D Suggetions.pdf"
+See the attach file "Primary Solutions.sql", "Secondary Solutions", and for dashboard see the file "AQI Dashboard.pbix".
 
 ### Insights :
-
+See the attach file "AQI R&D Suggetions.pdf".
 
 ### Recommendations :
 
