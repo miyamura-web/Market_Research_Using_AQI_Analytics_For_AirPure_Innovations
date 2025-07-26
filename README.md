@@ -73,3 +73,4 @@ See the attach file "AQI R&D Suggetions.pdf".
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Conclusion :
+This comprehensive analysis demonstrates strong market potential for AirPure Innovations across major Indian cities facing persistent air-quality challenges. By synthesizing AQI trends (2022–2025), population density, vehicle proliferation, and public health perceptions, I’ve identified both broad and city-specific demand hot spots.
