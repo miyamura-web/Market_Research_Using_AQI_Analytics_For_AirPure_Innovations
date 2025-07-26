@@ -50,7 +50,16 @@ See the attach file "Primary Solutions.sql", "Secondary Solutions", and for dash
 See the attach file "AQI R&D Suggetions.pdf".
 
 ### Recommendations :
-
+ ● Pre-Filter: Captures large dust particles, hair, pet dander
+ ● HEPA Filter (H13/H14): Removes 99.97% of PM2.5, PM10, allergens, bacteria
+ ● Activated Carbon Filter: Absorbs VOCs, smoke, cooking odors, gases like CO & SO2
+ ● Real-time AQI Monitoring (with color-coded LED and numeric display)
+ ● Silent Mode (<32 dB) for night use
+ ● Eco Mode to reduce power consumption
+ ● Auto Mode: Automatically adjusts fan speed based on AQI
+ ● Kills airborne viruses, bacteria, mold spores
+ ● Ideal for households with children and elderly, and for hospitals/schools
+ ● Budget friendly
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
