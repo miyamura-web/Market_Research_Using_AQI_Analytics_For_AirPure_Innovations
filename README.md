@@ -23,7 +23,7 @@ ___
 │   ├── AQI Dashboard.pbix                          # Power BI interactive dashboard
 │   └── AQI_Analytics.ipynb                         # Python scripts for EDA and correlation
 │
-└── AQI R&D Recommendations.pdf                          # Report of the analysis and insights along with recommendations
+└── AQI R&D Recommendations.pdf                     # Report of the analysis and insights along with recommendations
 
 ```
 
