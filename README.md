@@ -49,7 +49,7 @@ See the attach file "Primary_and_Secondary_Analysis.pdf"
 See the attach file "Primary Solutions.sql", "Secondary Solutions", and for dashboard see the file "AQI Dashboard.pbix". Also for EDA can see "AQI_Analytics.ipynb".
 
 ### Insights :
-See the attach file "AQI R&D Suggetions.pdf".
+See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
 
 ### Recommendations :
  ● Pre-Filter: Captures large dust particles, hair, pet dander
