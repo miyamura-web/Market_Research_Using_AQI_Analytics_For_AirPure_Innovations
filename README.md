@@ -65,6 +65,7 @@ See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
  ● Eco Mode to reduce power consumption
   <br>
  ● Auto Mode: Automatically adjusts fan speed based on AQI
+  <br>
  ● Kills airborne viruses, bacteria, mold spores
  ● Ideal for households with children and elderly, and for hospitals/schools
  ● Budget friendly
