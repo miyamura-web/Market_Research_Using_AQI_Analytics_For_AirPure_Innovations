@@ -59,6 +59,7 @@ See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
  ● Activated Carbon Filter: Absorbs VOCs, smoke, cooking odors, gases like CO & SO2
   <br>
  ● Real-time AQI Monitoring (with color-coded LED and numeric display)
+  <br>
  ● Silent Mode (<32 dB) for night use
  ● Eco Mode to reduce power consumption
  ● Auto Mode: Automatically adjusts fan speed based on AQI
