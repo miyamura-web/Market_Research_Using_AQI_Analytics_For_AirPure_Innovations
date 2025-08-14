@@ -53,6 +53,7 @@ See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
 
 ### Recommendations :
  ● Pre-Filter: Captures large dust particles, hair, pet dander
+ <br>
  ● HEPA Filter (H13/H14): Removes 99.97% of PM2.5, PM10, allergens, bacteria
  ● Activated Carbon Filter: Absorbs VOCs, smoke, cooking odors, gases like CO & SO2
  ● Real-time AQI Monitoring (with color-coded LED and numeric display)
