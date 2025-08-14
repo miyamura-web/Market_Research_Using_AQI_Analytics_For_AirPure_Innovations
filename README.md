@@ -61,7 +61,9 @@ See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
  ● Real-time AQI Monitoring (with color-coded LED and numeric display)
   <br>
  ● Silent Mode (<32 dB) for night use
+  <br>
  ● Eco Mode to reduce power consumption
+  <br>
  ● Auto Mode: Automatically adjusts fan speed based on AQI
  ● Kills airborne viruses, bacteria, mold spores
  ● Ideal for households with children and elderly, and for hospitals/schools
