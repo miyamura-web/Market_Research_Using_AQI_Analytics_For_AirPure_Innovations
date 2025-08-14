@@ -69,6 +69,7 @@ See the attach file "AQI R&D Suggetions.pdf" [ download it to view ].
  ● Kills airborne viruses, bacteria, mold spores
   <br>
  ● Ideal for households with children and elderly, and for hospitals/schools
+  <br>
  ● Budget friendly
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
