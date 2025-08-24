@@ -5,6 +5,8 @@ select * from [dbo].[Health related consequences]
 select * from [dbo].[Population data]
 select * from [dbo].[Vehicle data]
 
+
+-- My name is Niladri
 -----------------------------------------------------------------------------------------------------------------------------------
 
 -- Q1 :-
@@ -229,7 +231,7 @@ order by Total_EV desc;
 
 ------------------------------------------------------------
 
--- Q7 :- Compare Top 5 High EV Adoption states vs ALL OTHER states (excluding those Top 5) — for average AQI. [ Original ]
+-- Q7 :- Compare Top 5 High EV Adoption states vs ALL OTHER states (excluding those Top 5) ï¿½ for average AQI. [ Original ]
 
 -- Step 1: States with AQI data
 with ValidAqiStates as (
@@ -293,7 +295,7 @@ FinalJoin as (
     join AqiAvg as aa on ea.state = aa.state
 )
 
--- Step 7: Final Output – State-wise
+-- Step 7: Final Output ï¿½ State-wise
 select
     state, 
     Total_EV, 
