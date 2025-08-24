@@ -9,7 +9,7 @@ To evaluate the market potential for air purifiers in Indian cities by analyzing
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📁 Project Structure
-```
+```plain text
 ___
 ├── Datasets/ (Collected from "Dataful")
 │   ├── AQI(2022-2025).csv                          # Raw AQI data for Indian states
